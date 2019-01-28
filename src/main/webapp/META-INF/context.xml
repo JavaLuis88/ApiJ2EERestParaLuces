@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Luces" antiResourceLocking="false">
+  <Resource auth="Container" driverClassName="org.mariadb.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="5000" name="conexionluces" password="luces" type="javax.sql.DataSource" url="jdbc:mariadb://localhost:3306/luces" username="luces"/> 
+</Context>
+
